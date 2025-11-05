@@ -27,8 +27,13 @@ A data analyst passionate about transforming raw data into meaningful stories. I
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+-   IVT Traffic Analysis Dashboard
+Designing a fraud detection dashboard using Power BI to identify invalid traffic patterns and showcase BI storytelling skills.
+- Portfolio Website Deployment
+Building and customizing a React-based portfolio to host projects, certifications, and professional branding—deploying via Vercel.
+- LinkedIn Content Series
+Creating educational posts on dashboard design, data cleaning, and digital-first learning to engage peers and recruiters.
+
 
 ## 🛠️ Technical Skillset
 
