@@ -9,16 +9,12 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+a data analyst passionate about transforming raw data into meaningful stories. I specialize in building dashboards that not only look great but drive real decisions.With hands-on experience from Techmindz and over 5+ real-world projects, I’ve developed a strong command of tools like Power BI, Tableau, Python, SQL, and Excel. I love reverse-engineering messy workflows, automating repetitive tasks, and designing visuals that make complex insights easy to understand.Beyond analytics, I’m a peer educator and advocate for digital-first learning. I enjoy helping others grow—whether through LinkedIn posts, dashboard tutorials, or community projects. My goal is to make data accessible, impactful, and inspiring.When I’m not working with data, I explore football analytics, build full-stack apps, and share insights on how education can evolve through technology.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
