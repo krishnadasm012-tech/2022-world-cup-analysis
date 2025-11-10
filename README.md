@@ -15,12 +15,6 @@ This project analyzes key performance metrics from the 2022 FIFA World Cup using
 | `2022 world cup.pbix` | Power BI dashboard file |
 | `img 1 10.png`, `img 1 12.png`, `img 1 13.png` | Screenshots of dashboard views and insights |
 
-## 📸 Dashboard Previews  
-![Dashboard Overview](<img width="1535" height="813" alt="img 1 (1)" src="https://github.com/user-attachments/assets/8c683e0a-f83a-4f79-a47e-0c0eccb651e9" />
-)  
-![Team Performance](img%201%2012.png)  
-![Match Insights](img%201%2013.png)
-
 ## 🔍 Key Insights  
 - Top-performing teams by goals, possession, and cards  
 - Match-by-match breakdown of scores and outcomes  
